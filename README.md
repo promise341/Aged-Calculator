@@ -1,3 +1,3 @@
-## 30 Days of JS
+## Age Calculator
 
-# Age Calculator
+# This is my Age Calculator from 30 Days of JavaScript
